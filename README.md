@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @niceyoungjae
-- 👀 I’m interested in game
-- 🌱 I’m currently learning java
+
 
 
 <!---
