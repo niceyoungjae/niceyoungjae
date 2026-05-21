@@ -16,5 +16,5 @@
 
 ##  Contact
 -  niceyj15@gmail.com
--  niceyj16@kookmin.ac.kr.
+-  niceyj16@kookmin.ac.kr
   
